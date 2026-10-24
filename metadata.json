@@ -1,0 +1,6 @@
+{
+  "name": "OSI CALCULATE",
+  "description": "ئەپلیکەشنی حاسیبەی پێشکەوتوو بە ناوی OSI CALCULATE بۆ ژمێریاری ستاندارد، زانستی، گۆڕینی یەکەکان و قەرز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
